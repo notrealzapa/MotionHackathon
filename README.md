@@ -1,6 +1,7 @@
 # Yoga Pose Identifier and Gamification using MediaPipe
 
 Welcome to the Yoga Pose Identifier! This project uses [MediaPipe](https://mediapipe.dev/) to detect and classify yoga poses in real-time. The system not only recognizes the pose but also gamifies the experience by providing real-time feedback and scoring based on the accuracy of the pose.
+Also providing me big help was this kaggle dataset, that had the yoga poses: https://www.kaggle.com/datasets/niharika41298/yoga-poses-dataset
 
 <img width="825" alt="Screenshot 2024-08-09 at 18 41 23" src="https://github.com/user-attachments/assets/6709c6d0-0602-4580-8f4a-d892bd9d6bc4">
 
